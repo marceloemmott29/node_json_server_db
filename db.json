@@ -1,0 +1,83 @@
+{
+  "profesores": [
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "materias": [
+        "Matematica",
+        "Fisica"
+      ],
+      "id": "b79a"
+    },
+    {
+      "nombre": "Maria",
+      "apellido": "Gomez",
+      "materias": [
+        "Quimica",
+        "Biologia"
+      ],
+      "id": "815b"
+    },
+    {
+      "id": "568c",
+      "nombre": "fabian",
+      "apellido": "andres",
+      "materias": [
+        "react",
+        "sql"
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Pedro",
+      "apellido": "Gonzalez",
+      "promedio": 7.6,
+      "id": "7ee8"
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Rodriguez",
+      "promedio": 8.4,
+      "id": "70f3"
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Lopez",
+      "promedio": 6.9,
+      "id": "2b6e"
+    },
+    {
+      "id": "4682",
+      "nombre": "geroge",
+      "apellido": "emmott",
+      "promedio": 7.6
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Matematica",
+      "duaraion": "1 año",
+      "dificultad": "media",
+      "id": "3651"
+    },
+    {
+      "nombre": "Fisica",
+      "duaraion": "1 año",
+      "dificultad": "alta",
+      "id": "158b"
+    },
+    {
+      "nombre": "Quimica",
+      "duaraion": "1 año",
+      "dificultad": "media",
+      "id": "3070"
+    },
+    {
+      "nombre": "Biologia",
+      "duaraion": "1 año",
+      "dificultad": "baja",
+      "id": "0818"
+    }
+  ]
+}
